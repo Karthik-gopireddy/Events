@@ -1,0 +1,60 @@
+/* Write your CSS here */
+.initialview {
+  color: #64748b;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.initial {
+  padding: 50px;
+  width: 40vw;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  text-align: center;
+}
+.closedimage {
+  height: 250px;
+  width: 250px;
+  margin-bottom: 10px;
+}
+.closedh1 {
+  color: #000000;
+  font-size: 20px;
+}
+.closedpara {
+  color: #64748b;
+  text-align: center;
+  margin-top: 20px;
+}
+.closedcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 80px;
+}
+.registeredimage {
+  height: 100px;
+  width: 100px;
+}
+.yettoregister {
+  height: 400px;
+  width: 300px;
+}
+.yettoregisterpara {
+  color: #64748b;
+  font-size: 22px;
+  text-align: center;
+  margin-top: 10px;
+}
+.button {
+  width: 300px;
+  height: 50px;
+  background-color: #0967d2;
+  border: none;
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 10px;
+}

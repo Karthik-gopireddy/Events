@@ -1,0 +1,23 @@
+/* Write your CSS here */
+*{
+    color: #ffffff;
+}
+
+.itemimage{
+    height: 200px;
+    width: 300px;
+}
+.listitems{
+    list-style-type: none;
+    margin: 20px;
+}
+.itemsnames{
+    font-size: 20px;
+}
+.itemsimgbutton{
+    border: 0px;
+    padding: 0px;
+    border-radius: 15px;
+    height: 200px;
+    cursor: pointer;
+}
